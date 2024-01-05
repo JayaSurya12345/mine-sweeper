@@ -26,10 +26,11 @@
 
 .row {
   display: flex;
+  /* cursor: pointer; */
 }
 
 .cell {
-  border: 1px solid #ff0000;
+  border: 1px solid #ccc;
   height: 35px;
   width: 35px;
   line-height: 35px;
